@@ -1,0 +1,18 @@
+---
+title: "Oliver Hofmann"
+image: "avatar.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/fiamh"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ohofmann/"
+  - label: Work
+    url: "https://mdhs.unimelb.edu.au/centre-for-cancer-research/our-research/genomics-platform-group/"
+  - label: Email
+    url: "mailto:oliver.hofmann@unimelb.edu.au"
+output:
+  postcards::jolla
+---
+ 
+TBD
+
