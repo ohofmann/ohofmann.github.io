@@ -1,6 +1,6 @@
 ---
 title: "Oliver Hofmann"
-image: "avatar.jpg"
+image: "avatar.JPG"
 links:
   - label: Twitter
     url: "https://twitter.com/fiamh"
