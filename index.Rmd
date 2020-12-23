@@ -14,5 +14,5 @@ output:
   postcards::jolla
 ---
  
-TBD
+Bioinformatician at the University of Melbourne working in large scale cancer genomics to improve patient outcomes. 
 
