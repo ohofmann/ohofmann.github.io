@@ -3,7 +3,7 @@ title: "Oliver Hofmann"
 image: "avatar.png"
 links:
   - label: CV
-    url: "tba"
+    url: "./cv25_resume.pdf"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ohofmann/"
   - label: Bluesky
