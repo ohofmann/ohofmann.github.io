@@ -2,6 +2,8 @@
 title: "Oliver Hofmann"
 image: "avatar.png"
 links:
+  - label: CV
+    url: "tba"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ohofmann/"
   - label: Bluesky
@@ -20,32 +22,36 @@ Bioinformatician with an interest in large-scale genomics, with an emphasis on w
 
 **University of Cologne** | Cologne, Germany
 
-Doctor of Science in Biochemistry | 2000 - 2004
+2004 | Doctor of Science in Biochemistry 
 
-Diploma in Biology | 1993 - 1999
+1999 | Diploma in Biology 
+
 
 ## Experience
 
-#### **University of Melbourne**, Melbourne, Australia
+#### **University of Melbourne**
+_Melbourne, Victoria, Australia_
 
 2022 - Present | Professor, Department of Clinical Pathology
 
-2016 - 2022 | Associate Professor, Department of Clinical Pathology | 2016 - 2022
+2016 - 2022 | Associate Professor, Department of Clinical Pathology 
 
 2016 - Present | Head of Bioinformatics, Collaborative Centre for Genomic Cancer Medicine 
 
-#### **University of Glasgow**, Glasgow, UK
+#### **University of Glasgow**
+_Glasgow, UK_
 
 2015 - 2016 | Reader, Institute of Cancer Sciences
 
 2015 - 2016 | Head of Bioinformatics, Wolfson-Wohl Cancer Research Centre
 
 
-#### **Harvard T.H. Chan School of Public Health**, Boston, MA, USA
+#### **Harvard T.H. Chan School of Public Health**
+_Boston, MA, USA_
 
 2015 - 2016 | Visiting Associate Professor | Department of Biostatistics
 
-2014 - 2015 | Director, Bioinformatics Core
+2014 - 2015 | Director | Bioinformatics Core
 
 2012 - 2014 | Senior Research Scientist | Department of Biostatistics
 
@@ -57,17 +63,19 @@ Diploma in Biology | 1993 - 1999
 
 2007 - 2008 | Research Fellow | Department of Biostatistics
 
-#### **South African National Bioinformatics Institute**, Cape Town, South Africa
+#### **South African National Bioinformatics Institute**
+_Cape Town, South Africa_
 
 2005 - 2007 | Post-doctoral Researcher
 
-#### **deCODE genetics**, Reykjavik, Iceland
+#### **deCODE genetics**
+_Reykjavik, Iceland_
 
 2001 - 2002 | Visiting Researcher
 
 ## Professional Activities
 
-**Australian Genomics** | Co-lead data management program | Building re-usable national infrastructure
+**Australian Genomics** | Co-lead Data Management Program | Building re-usable national infrastructure
 
 **Global Alliance for Genomics and Health (GA4GH)** | Co-lead Large Scale Genomics Workstream | Strategic Leadership Committee
 
