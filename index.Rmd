@@ -1,18 +1,79 @@
 ---
 title: "Oliver Hofmann"
-image: "avatar.JPG"
+image: "avatar.png"
 links:
-  - label: Twitter
-    url: "https://twitter.com/fiamh"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ohofmann/"
-  - label: Work
-    url: "https://mdhs.unimelb.edu.au/centre-for-cancer-research/our-research/genomics-platform-group/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/fiamh.bsky.social"
   - label: Email
     url: "mailto:oliver.hofmann@unimelb.edu.au"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-Bioinformatician at the University of Melbourne working in large scale cancer genomics to improve patient outcomes. 
+## Bio
+
+Bioinformatician with an interest in large-scale genomics, with an emphasis on workflows, national infrastructure and interoperability standards to support the use of genomic data in transforming clinical approaches to cancer care.
+
+## Education
+
+**University of Cologne** | Cologne, Germany
+
+Doctor of Science in Biochemistry | 2000 - 2004
+
+Diploma in Biology | 1993 - 1999
+
+## Experience
+
+#### **University of Melbourne**, Melbourne, Australia
+
+2022 - Present | Professor, Department of Clinical Pathology
+
+2016 - 2022 | Associate Professor, Department of Clinical Pathology | 2016 - 2022
+
+2016 - Present | Head of Bioinformatics, Collaborative Centre for Genomic Cancer Medicine 
+
+#### **University of Glasgow**, Glasgow, UK
+
+2015 - 2016 | Reader, Institute of Cancer Sciences
+
+2015 - 2016 | Head of Bioinformatics, Wolfson-Wohl Cancer Research Centre
+
+
+#### **Harvard T.H. Chan School of Public Health**, Boston, MA, USA
+
+2015 - 2016 | Visiting Associate Professor | Department of Biostatistics
+
+2014 - 2015 | Director, Bioinformatics Core
+
+2012 - 2014 | Senior Research Scientist | Department of Biostatistics
+
+2010 - 2012 | Research Scientist | Department of Biostatistics
+
+2008 - 2014 | Associate Director | Bioinformatics Core
+
+2008 - 2009 | Research Associate | Department of Biostatistics
+
+2007 - 2008 | Research Fellow | Department of Biostatistics
+
+#### **South African National Bioinformatics Institute**, Cape Town, South Africa
+
+2005 - 2007 | Post-doctoral Researcher
+
+#### **deCODE genetics**, Reykjavik, Iceland
+
+2001 - 2002 | Visiting Researcher
+
+## Professional Activities
+
+**Australian Genomics** | Co-lead data management program | Building re-usable national infrastructure
+
+**Global Alliance for Genomics and Health (GA4GH)** | Co-lead Large Scale Genomics Workstream | Strategic Leadership Committee
+
+**GA4GH National Initiatives Forum** | Steering Committee
+
+**Garvan Institute of Medical Research** | Data Science Steering Committee
+
+**European Genomics Data Infrastructure (GDI)** | Infrastructure Advisory Board
 
